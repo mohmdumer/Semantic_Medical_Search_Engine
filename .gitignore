@@ -1,0 +1,7 @@
+__pycache__/
+*.npy
+*.index
+# *.docx
+data/*.csv
+models/
+.venv_semantic/
